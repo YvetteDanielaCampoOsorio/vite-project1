@@ -1,0 +1,39 @@
+.h2{
+ font-size: 30px;
+}
+
+.h3{
+  font-size: 20px;
+  margin: 10px;
+}
+
+.tweet{
+  margin: 10px;
+}
+
+.divText{
+  background-color: blueviolet;
+  height: 500px;
+  width: 500px;
+  margin-left:500px;
+  padding-top: 3px;
+}
+
+.buttons{
+  margin: 10px;
+}
+
+.btn{
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  color: aliceblue;
+  background-color: black;
+}
+
+
+
+
+
+
